@@ -1,0 +1,1 @@
+export const url="https://fullstack-c9212-default-rtdb.asia-southeast1.firebasedatabase.app/";
